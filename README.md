@@ -6,6 +6,6 @@ Basic syntax:
 vec1= gene[i,tumor]
 vec2= gene[i,control]
 
-Log2fc:
+Log2fc=
 mean(vec1) - mean(vec2)
 
