@@ -1,4 +1,4 @@
-#Differential gene expression analysis in control and tumor genes
+#Differential gene expression analysis in tumor and control genes
 setwd('C:\\Users\\sai\\Documents\\R')
 mat=matrix(NA,ncol=4,nrow = nrow(logcpm))
 rownames(mat)=rownames(logcpm)
