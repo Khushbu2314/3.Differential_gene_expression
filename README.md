@@ -9,4 +9,4 @@ vec2= gene[i,control]
 Log2fc=
 mean(vec1) - mean(vec2)
 
-Interpretation: A enhanced volcano plot is generated ,showing high upregulated and downregulated genes
+Interpretation: A enhanced volcano plot is generated ,where positive are upregulated and negative are downregulated genes.
